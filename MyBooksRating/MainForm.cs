@@ -60,13 +60,13 @@ namespace MyBooksRating
                 string rate = row1.Cells["RateNumber"].Value.ToString();
                 if (rate != "No rate")
                 {
-                    string imgPath = Environment.CurrentDirectory.Substring(0, 45) + @"image\" + row1.Cells["RateNumber"].Value + "heart.png";
+                    string imgPath = Environment.CurrentDirectory + @"image\" + row1.Cells["RateNumber"].Value + "heart.png";
                     Image imageFile = Image.FromFile(imgPath);
                     row1.Cells["Rate"].Value = imageFile;
                 }
                 else
                 {
-                    string imgPath = Environment.CurrentDirectory.Substring(0, 45) + @"image\NoRate.png";
+                    string imgPath = Environment.CurrentDirectory + @"image\NoRate.png";
                     row1.Cells["Rate"].Value = Image.FromFile(imgPath);
                 }
             }

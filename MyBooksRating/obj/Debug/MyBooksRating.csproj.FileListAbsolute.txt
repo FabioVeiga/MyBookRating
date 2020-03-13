@@ -18,3 +18,12 @@ C:\Users\Programming15\Desktop\IBT\C# Windows Form\Project\MyBooksRating\obj\Deb
 C:\Users\Programming15\Desktop\IBT\C# Windows Form\Project\MyBooksRating\obj\Debug\MyBooksRating.csproj.CoreCompileInputs.cache
 C:\Users\Programming15\Desktop\IBT\C# Windows Form\Project\MyBooksRating\obj\Debug\MyBooksRating.exe
 C:\Users\Programming15\Desktop\IBT\C# Windows Form\Project\MyBooksRating\obj\Debug\MyBooksRating.pdb
+C:\SHARED\Demo Day\Fabio\MyBooksRating\bin\Debug\MyBooksRating.exe.config
+C:\SHARED\Demo Day\Fabio\MyBooksRating\bin\Debug\MyBooksRating.exe
+C:\SHARED\Demo Day\Fabio\MyBooksRating\bin\Debug\MyBooksRating.pdb
+C:\SHARED\Demo Day\Fabio\MyBooksRating\obj\Debug\MyBooksRating.csprojAssemblyReference.cache
+C:\SHARED\Demo Day\Fabio\MyBooksRating\obj\Debug\MyBooksRating.DetailForm.resources
+C:\SHARED\Demo Day\Fabio\MyBooksRating\obj\Debug\MyBooksRating.MainForm.resources
+C:\SHARED\Demo Day\Fabio\MyBooksRating\obj\Debug\MyBooksRating.csproj.GenerateResource.cache
+C:\SHARED\Demo Day\Fabio\MyBooksRating\obj\Debug\MyBooksRating.exe
+C:\SHARED\Demo Day\Fabio\MyBooksRating\obj\Debug\MyBooksRating.pdb
